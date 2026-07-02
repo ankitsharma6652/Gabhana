@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ankitsharma6652.github.io/Gabhana/sitemap.xml
