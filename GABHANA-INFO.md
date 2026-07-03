@@ -64,3 +64,5 @@ uses drop-in slots — put your own photos in `images/` named photo1.jpg … pho
 - https://www.censusindia.co.in/subdistrict/gabhana-tehsil-aligarh-uttar-pradesh-753
 - https://somethingspecialbyadity.wordpress.com/2015/05/10/gabhana-palace-near-aligarh-west-u-p/
 - https://www.census2011.co.in/data/subdistrict/753-gabhana-aligarh-uttar-pradesh.html
+
+<!-- auto-deploy test Fri Jul  3 06:40:17 IST 2026 -->
